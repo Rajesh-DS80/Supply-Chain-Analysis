@@ -26,3 +26,6 @@ category + price
 
 🟥 Warehouses Sheet:- 
 capacity + city
+
+
+
