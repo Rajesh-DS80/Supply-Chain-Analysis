@@ -18,11 +18,11 @@ delivery_status
 payment_mode
 distance_km
 
-🟩 Customers Sheet
+🟩 Customers Sheet:-
 customer details + region
 
-🟨 Products Sheet
+🟨 Products Sheet:-
 category + price
 
-🟥 Warehouses Sheet
+🟥 Warehouses Sheet:- 
 capacity + city
